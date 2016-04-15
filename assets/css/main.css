@@ -159,7 +159,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 800px;
+	min-height: 1200px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -174,13 +174,15 @@ a:after {
 }
 
 #headerwrap h1 {
+text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 	font-size: 80px;
-	color: white;
+	color: Blue;
 }
 
 #headerwrap h3 {
+text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 	font-size: 20px;
-	color: white;
+	color: blue;
 }
 
 /* Intnro Wrap */
